@@ -1,0 +1,116 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
+body{
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url(../imga/d4legn7kkw821.jpg);
+    font-family: Helvetica;
+}  
+nav{
+    background-color: rgba(143, 41, 211, 0.612);
+    width: 100%;
+}                                                                          
+.menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+.lista a{
+    text-decoration: none;
+    color: white;  
+    display: block;
+    padding: 15px 50px;
+}
+.menu .lista{
+    display: inline-block;
+}
+
+.lista-r{
+    float: right;
+    
+}
+
+.lista a:hover{
+    background-color: yellow;
+}
+
+main{
+    text-align: center;
+}
+
+img{
+    margin-top: 10px;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    border: 10px solid white;
+}
+
+p{
+    font-size: 22px;    
+    font-weight: 600;
+    color: yellow;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;    
+    justify-content: center;
+    align-items: center;
+}
+
+label{
+    color: yellow;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+input{
+    border: 0cap;
+    padding: 10px;
+    font-size: 18px;
+    margin: 5px;
+    background-color: rgba(143, 41, 211, 0.612);
+}
+
+label{
+    font-size: 22px;
+    font-weight: 600;
+    
+}
+
+#textarea{
+border: 0cap;
+font-size: 18px;
+margin: 5px;
+background-color: rgba(143, 41, 211, 0.612);
+color: white;
+}
+
+input::placeholder{
+    color: white;
+}
+
+#nombre{
+    color: white;
+}
+
+#correo{
+    color: white;
+}
+
+button[type="submit"]{
+    background-color: black;
+    color: yellow;
+    padding: 10px;
+    font-family: 20px;
+    font-weight: 600;
+    border-radius: 20px;
+    
+}
+
