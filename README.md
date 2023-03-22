@@ -38,30 +38,73 @@
 
 # 30 Etiquetas de CSS
 
-![css](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png)
+![css](https://informaticacoslada.com/wp-content/uploads/2015/07/css3.png)
 
 <hr>
 
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
--
+-  color: Define el coor del texto a usar  
+-  font-family: Define el tipo de fuente que se desea usar
+-  font-size: Define el tamaño fuente que se va a usar
+-  border: Define el borde que hbra alrededor de algun elemento
+-  padding: Define el espacio o relleno entre un elemento y el borde
+-  margin: Define la marge o espacio fuera del borde
+-  width: Define el ancho que tendra un elemento
+-  background-color: Establece un color de fondo o de relleno
+-  text-shadow: Coloca una sombra difuminada en el texto de un elemento
+-  display: Selecciona la forma que se visulizra un elemento
+-  background-image: Establece una imagen de fondo
+-  border-style: Especifica que tipo de borde mostrar
+-  background-repeat: Especifica si se repetira una imagen o no
+-  background-attachment: Establece si la imagen de fondo sera estatica o se desplazara en la pagina
+-  dotted: Define un borde punteado
+-  dashed: Define un borde secontinuo
+-  solid: Define un borde solido
+-  double: Define un borde doble
+-  groove:Define un borde ranurado
+-  ridge: Define un borde estriado
+-  inset: Define un borde de inserccion
+-  outset: Define un borde inicial
+-  none: No defini un borde
+-  hidden: Define un borde oculto
+-  border-width: Especifica el ancho que tendran los bordes
+-  border-color: Establece el color que tendran los bordes
+-  border-radius: Establece un borde redondo
+-  margin-top: Establece la margen superior de un elemnto
+-  margin-right: Establece la margen derecha de un elemento
+-  margin-left: Establece la margen izquierda de un elemnto
+
+<hr>
+
+# Que es Display block, inline e inline-block
+
+![a](https://mblogthumb-phinf.pstatic.net/MjAxNzEyMDhfMTY1/MDAxNTEyNzI2MjcyMTY4.7p0i3X51WYejSyVCki-4BQtv6ecy2uflB53fhTBdD8Ag.Gx7e6zVxQxyeB-O7EefE4rBrDBCR8YHdkezklsia7UUg.PNG.ceo_zeus/aa11.png?type=w800)
+
+**Display block:** Herramienta que permite el completo uso de la pantalla 
+
+ <hr>
+ 
+ **Inline:** Herramienta que permite el uso de los elementos agrupados uno al lado del otro en el caso de poco espacio de la pantalla
+ 
+ <hr>
+ 
+ **Inline-Block:** Herramienta que permite tanto el uso de toda la pantalla como el de agrupar los elementos uno al lado del otro 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
